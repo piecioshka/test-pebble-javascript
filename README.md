@@ -1,6 +1,6 @@
-# test-pebble-sdk
+# test-pebble-sdk-javascript
 
-Test application building with `pebble-sdk`.
+Test application building with command: `pebble new-project --javascript`.
 
 ## Authors
 
