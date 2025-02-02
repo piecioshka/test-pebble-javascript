@@ -1,6 +1,6 @@
 # test-pebble-javascript
 
-📒⌚ Test application for Pebble Smartwatch
+📒 ⌚ Test application for Pebble Smartwatch
 
 ## Build with command
 
