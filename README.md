@@ -1,4 +1,9 @@
 # test-pebble-javascript
 
-> :ledger: Test application build with command: `pebble new-project --javascript`.
+📒⌚ Test application for Pebble Smartwatch
 
+## Build with command
+
+```bash
+pebble new-project --javascript
+```
